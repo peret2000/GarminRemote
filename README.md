@@ -2,6 +2,10 @@
 
 RemoteApp is a Connect IQ DataField designed to act as a remote control using the ANT+ protocol. It is specifically configured to interface with software like [**GoldenCheetah**](https://github.com/GoldenCheetah/GoldenCheetah), allowing you to control playback (Start, Stop, Lap) directly from your Garmin device during an activity.
 
+
+https://github.com/user-attachments/assets/19e803e7-17f6-4685-9835-eae441a79005
+
+
 ## Compatibility
 
 This application has been explicitly tested and verified on the following devices:
