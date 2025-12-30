@@ -1,0 +1,24 @@
+# Developer credentials
+developer_key
+developer_key.der
+developer_key.pem
+
+# Build output and binaries
+bin/
+output/
+gen/
+
+# Intermediate build files
+mir/
+internal-mir/
+*.mir
+*.mcgen
+*.prg
+*.debug.xml
+
+# IDE and System files
+.settings/
+.project
+.cproject
+.DS_Store
+Thumbs.db

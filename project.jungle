@@ -1,0 +1,10 @@
+# Proyecto
+project.manifest = manifest.xml
+
+# Rutas de código y recursos
+sourcePath = source
+resourcePath = resources
+
+# Dispositivos objetivo
+device = fenix6
+device = fenix6xpro
